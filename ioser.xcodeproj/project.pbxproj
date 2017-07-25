@@ -104,12 +104,12 @@
 				275CBCCC1F26F971004E1CD4 /* NSLayoutConstraint+MASDebugAdditions.m */,
 			);
 			name = Masnory;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		27850F711F1CF39C009CF48A = {
 			isa = PBXGroup;
 			children = (
-				275CBCB31F26F957004E1CD4 /* Masnory */,
 				27850F7C1F1CF39C009CF48A /* ioser */,
 				27850F7B1F1CF39C009CF48A /* Products */,
 			);
@@ -126,6 +126,7 @@
 		27850F7C1F1CF39C009CF48A /* ioser */ = {
 			isa = PBXGroup;
 			children = (
+				275CBCB31F26F957004E1CD4 /* Masnory */,
 				27850F801F1CF39C009CF48A /* AppDelegate.h */,
 				27850F811F1CF39C009CF48A /* AppDelegate.m */,
 				27850F831F1CF39C009CF48A /* ViewController.h */,
